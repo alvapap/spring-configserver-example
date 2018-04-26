@@ -1,0 +1,7 @@
+2018-04-26 15:46:01.971  INFO 17424 --- [http-nio-8080-exec-5] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2018-04-26 15:46:01.974  INFO 17424 --- [http-nio-8080-exec-5] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@509065d3: startup date [Thu Apr 26 15:46:01 CEST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@23269f78
+2018-04-26 15:46:01.983  INFO 17424 --- [http-nio-8080-exec-5] o.s.boot.SpringApplication               : Started application in 1.033 seconds (JVM running for 85.305)
+2018-04-26 15:46:01.983  INFO 17424 --- [http-nio-8080-exec-5] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@509065d3: startup date [Thu Apr 26 15:46:01 CEST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@23269f78
+2018-04-26 15:46:01.985  INFO 17424 --- [http-nio-8080-exec-5] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@23269f78: startup date [Thu Apr 26 15:46:01 CEST 2018]; root of context hierarchy
+2018-04-26 15:46:13.418  INFO 17424 --- [http-nio-8080-exec-6] c.e.config.client.MessageRestController  : info level log
+2018-04-26 15:46:13.419 ERROR 17424 --- [http-nio-8080-exec-6] c.e.config.client.MessageRestController  : error level log
